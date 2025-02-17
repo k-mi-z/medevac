@@ -1,0 +1,7 @@
+MTF,Precedence,avg_service_times,total_num_requests_serviced,num_requests_serviced_on_time,percent_requests_serviced_on_time
+MTF1,Priority,0.9899633117925193,1138,1138,100.0
+MTF1,Routine,1.1387750803289851,637,637,100.0
+MTF1,Urgent,4.980004406740221,3063,654,21.351616062683643
+MTF2,Priority,1.3695765616927378,4997,4964,99.33960376225735
+MTF2,Routine,1.7894242503265843,2582,2581,99.96127033307513
+MTF2,Urgent,0.0,0,0,0.0
